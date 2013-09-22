@@ -1,0 +1,19 @@
+
+
+LAB by : Siddharth Udayappan Chidambaram and Goutham Devarayasamudram
+
+The concepts and the design was developed by the both of us ( Siddharth Udayappan Chidambaram and Goutham Devarayasamudram) 
+
+The python code was developed jointly with equal halfs being coded by the both of us 
+The network was set up by the both of us 
+The database part was coded by Siddharth 
+The Fault tolerance part was coded by Goutham and 
+The packets sent though the system were coded jointly 
+
+A number of issues cropped up and we discussed them and solved them together
+
+Documents : 
+The design document was developed by Goutham 
+The Performance results and the various ouputs and scenarios were developed by Siddharth 
+
+Since we sat together and coded mostly ,we are not able to come up with strict demarkations 

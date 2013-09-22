@@ -1,0 +1,5 @@
+- To execute the code, goto the directory in which the files python files reside and execute the below command:
+	
+	python MainGame.py 
+	
+Alternatively you could run it from any directory and specify the full path of MainGame.py)
